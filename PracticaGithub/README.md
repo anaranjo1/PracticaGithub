@@ -1,7 +1,11 @@
 # PRÁCTICA GITHUB
+<<<<<<< HEAD
 
 SE AÑADE UNA LÍNEA
 
+=======
+Esta es una segunda linea
+>>>>>>> branch2
 ### REALIZAMOS LA PRÁCTICA DE GITHUB
 
 ```python
